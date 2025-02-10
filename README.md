@@ -1,5 +1,5 @@
 # MemoryTraining
-Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок. [Ссылка на страницу в RuStore](https://www.rustore.ru/catalog/app/com.youngsophomore).
+Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок. [Страница в RuStore](https://www.rustore.ru/catalog/app/com.youngsophomore).
 Место для видео
 ## Стек
 - Java
