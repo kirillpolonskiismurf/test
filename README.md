@@ -1,6 +1,8 @@
 # MemoryTraining
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок. [Страница в RuStore](https://www.rustore.ru/catalog/app/com.youngsophomore).
-Место для видео
+
+[![Watch the video]](presentation/output(compress-video-online.com))
+
 ## Стек
 - Java
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
