@@ -1,10 +1,7 @@
 # MemoryTraining
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок. [Страница в RuStore](https://www.rustore.ru/catalog/app/com.youngsophomore).
 
-![Демонстрация приложения]()
-
-
-<img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation/MemoryTraining_presentation.gif" width="300" height="600">
+<img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation/MemoryTraining_presentation.gif" width="290" height="600">
 
 ## Стек
 - Java
@@ -16,7 +13,9 @@
 - Просмотр статистики ошибок
 - Смена языка
 ## Реализованный функционал
-- Обработка жестов-свайпов и переходы между состояниями разметки экрана с помощью MotionLayout
-- Что-то про SharedPreferences
-- Что-то про хранение коллекций в файлах
-- Что-то про диалоговые окна
+- Обработка жестов-свайпов и переходы между экранами с помощью MotionLayout
+- Использование SharedPreferences для хранения настроек и названий пользовательских коллекций
+- Использование Internal Storage для хранения пользовательских коллекций
+- Использование сторонней библиотеки [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) для построения столбчатых диаграмм, отображающих статистику ошибок
+- Реализация фрагмента секундомера с помощью Handler
+- Реализация кастомных адаптеров для RecyclerView
