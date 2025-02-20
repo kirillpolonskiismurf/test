@@ -5,7 +5,8 @@
 <a href="https://www.rustore.ru/catalog/app/com.youngsophomore">
     <img src="https://img.shields.io/badge/RuStore-0077FF?style=flat" height="25"/>
   </a>
-
+  
+[Страница в RuStore](https://www.rustore.ru/catalog/app/com.youngsophomore)
 
 <img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation1/MemoryTraining_presentation.gif" width="290" height="600">
 
