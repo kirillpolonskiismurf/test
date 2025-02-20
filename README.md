@@ -3,8 +3,8 @@
 
 Страница в 
 <a href="https://www.rustore.ru/catalog/app/com.youngsophomore">
-    <img src="https://img.shields.io/badge/RuStore-blue"/>
-  </a>.
+    <img src="https://img.shields.io/badge/RuStore-blue?style=plastic"/>
+  </a>
 
 
 <img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation1/MemoryTraining_presentation.gif" width="290" height="600">
