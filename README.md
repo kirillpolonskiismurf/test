@@ -1,7 +1,8 @@
 # MemoryTraining
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок.
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
+<a href="https://www.rustore.ru/catalog/app/com.youngsophomore">
+    <img src="https://img.shields.io/badge/RuStore-blue"/>
+  </a>
 [Страница в RuStore](https://www.rustore.ru/catalog/app/com.youngsophomore).
 
 <img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation1/MemoryTraining_presentation.gif" width="290" height="600">
