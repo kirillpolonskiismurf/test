@@ -8,7 +8,7 @@
   
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation1/MemoryTraining_presentation.gif" width="290" height="600">
+<img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation/MemoryTraining_presentation.gif" width="290" height="600">
 
 ## Стек
 - Java
