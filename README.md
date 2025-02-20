@@ -1,9 +1,8 @@
 # MemoryTraining
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок.
-
-Страница в 
+ 
 <a href="https://www.rustore.ru/catalog/app/com.youngsophomore">
-    <img src="https://img.shields.io/badge/RuStore-0077FF?style=flat" height="25"/>
+    <img src="https://img.shields.io/badge/RuStore-0077FF?style=flat" height="35"/>
   </a>
   
 [Страница в RuStore](https://www.rustore.ru/catalog/app/com.youngsophomore)
