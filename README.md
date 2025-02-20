@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/RuStore-0077FF?style=flat" height="35"/>
   </a>
   
-
+&nbsp;
 
 <img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation1/MemoryTraining_presentation.gif" width="290" height="600">
 
