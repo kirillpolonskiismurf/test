@@ -3,7 +3,7 @@
 
 Страница в 
 <a href="https://www.rustore.ru/catalog/app/com.youngsophomore">
-    <img src="https://img.shields.io/badge/RuStore-blue?style=plastic"/>
+    <img src="https://img.shields.io/badge/RuStore-blue?style=plastic" height="20"/>
   </a>
 
 
