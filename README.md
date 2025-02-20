@@ -1,7 +1,7 @@
 # MemoryTraining
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок. [Страница в RuStore](https://www.rustore.ru/catalog/app/com.youngsophomore).
 
-<img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation/MemoryTraining_presentation.gif" width="290" height="600">
+<img src="https://raw.githubusercontent.com/kirillpolonskiismurf/test/master/presentation1/MemoryTraining_presentation.gif" width="290" height="600">
 
 ## Стек
 - Java
